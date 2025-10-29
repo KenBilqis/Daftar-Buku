@@ -67,4 +67,6 @@ $password = '';
 
 ## Screenshoot
 
-![alt text](./assets/Screenshot.png)
+![alt text](./assets/tampilan-awal.png)
+![alt text](./assets/tambah-buku.png)
+![alt text](./assets/tampilan-akhir.png)
